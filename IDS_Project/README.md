@@ -46,7 +46,7 @@ uploaded = files.upload()  # choose your zip file
 !pip -q install -r requirements.txt
 ```
 
-## Reproduction part(CoLab Environment):
+## Reproduction part (CoLab Environment):
 
 > Run the following commands from the directory that contains `scripts/`, `src/`, `results/`, and `report/`
 > (e.g., after `cd IDS_Project` as shown above).
