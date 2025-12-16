@@ -126,7 +126,7 @@ After running the pipeline above, you should have (names may vary slightly by sc
 * `results/results_table.tex`
 * `results/mlp_training_curve.pdf`
 
-## You can also build the report in Colab 
+## You can also build the report manually
 
 Main resources are also given.
 
