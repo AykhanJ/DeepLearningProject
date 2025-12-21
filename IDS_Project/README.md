@@ -1,4 +1,5 @@
 # Deep Learning IDS on NSL-KDD (Binary Classification)
+# Aykhan Mammadli - am15226
 
 This project trains and evaluates intrusion detection models on the **NSL-KDD** dataset for **binary classification**:
 **normal (0)** vs **attack (1)**. We compare a Logistic Regression baseline with a PyTorch MLP and evaluate an
